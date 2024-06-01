@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="MiniPaint.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MiniPaint"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="LightGray">
+        <Canvas Name="drawingBox" Background="White" Width="1000" Height="600" 
+                HorizontalAlignment="Left" VerticalAlignment="Bottom"
+                PointerPressed="drawingBox_PointerPressed"
+                PointerMoved="drawingBox_PointerMoved"
+                PointerReleased="drawingBox_PointerReleased"
+                SizeChanged="drawingBox_SizeChanged"
+                />
+        <Slider x:Name="thickLine" Maximum="150" Minimum="1" Height="30" Width="260" Margin="200,30" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" PointerPressed="brushColor">
+            <StackPanel Orientation="Horizontal">
+                <Rectangle Width="40" Height="40" Fill="Red" />
+                <Rectangle Width="40" Height="40" Fill="Green" />
+                <Rectangle Width="40" Height="40" Fill="Black" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Rectangle Width="40" Height="40" Fill="Blue" />
+                <Rectangle Width="40" Height="40" Fill="Yellow" />
+                <Rectangle Width="40" Height="40" Fill="Violet" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Rectangle Width="40" Height="40" Fill="AliceBlue" />
+                <Rectangle Width="40" Height="40" Fill="AntiqueWhite" />
+                <Rectangle Width="40" Height="40" Fill="Aqua" />
+            </StackPanel>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Top">
+            <RadioButton Name="rbAny" Content="any line" IsChecked="True"/>
+            <RadioButton Name="rbStraight" Content="straight line"/>
+            <Button x:Name="btUndo" Content="UNDO" Click="btUndo_Click" HorizontalAlignment="Center"/>
+            <Button Content="COLOR" Name="btColor">
+                <Button.Flyout>
+                    <Flyout>
+                        <ColorPicker x:Name="prColor" PointerPressed="prColor_PointerPressed"/>
+                    </Flyout>
+                </Button.Flyout>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Page>

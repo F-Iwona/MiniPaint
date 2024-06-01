@@ -1,0 +1,90 @@
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MiniPaint.csproj.AssemblyReference.cache
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\App.g.i.cs
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\App.g.cs
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MainPage.g.cs
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\App.xaml
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MainPage.xaml
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\App.xbf
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MainPage.xbf
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MiniPaint.csproj.CoreCompileInputs.cache
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\App.xbf
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\MainPage.xbf
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\MiniPaint.xr.xml
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\MiniPaint.exe
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\MiniPaint.pdb
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\resources.pri
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\AppxManifest.xml
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\Core\MiniPaint.exe
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\MiniPaint.build.appxrecipe
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\System.Runtime.dll
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MiniPaint.csproj.Up2Date
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MiniPaint.exe
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MiniPaint.pdb
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\priconfig.xml
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\resources.resfiles
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\pri.resfiles
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\qualifiers.txt
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\iwona\Desktop\UKW\Rok 2\Technologie Mobilne i Rozproszone na Platformie NET\MiniPaint\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316334480000000.json
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MiniPaint.csproj.AssemblyReference.cache
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\App.g.i.cs
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\App.g.cs
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MainPage.g.cs
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\App.xaml
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MainPage.xaml
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\App.xbf
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MainPage.xbf
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MiniPaint.csproj.CoreCompileInputs.cache
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MiniPaint.exe
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MiniPaint.pdb
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\App.xbf
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\MainPage.xbf
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\MiniPaint.xr.xml
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\MiniPaint.exe
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\MiniPaint.pdb
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\resources.pri
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\AppxManifest.xml
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\Core\MiniPaint.exe
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\MiniPaint.build.appxrecipe
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\System.Runtime.dll
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MiniPaint.csproj.Up2Date
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\priconfig.xml
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\resources.resfiles
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\pri.resfiles
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\qualifiers.txt
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\iwona\Desktop\Programy prywatne\C# programy kopia\MiniPaint\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316334480000000.json
